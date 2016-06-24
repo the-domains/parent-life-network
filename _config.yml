@@ -1,0 +1,28 @@
+name: Parent Life Network
+favicon: null
+layout_spectrum: 0.2975309344474226
+typography_spectrum: 0.3335949268657714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6671213957015425
+  lightness: 0.16184920445084572
+  saturation: 0.06349117239005864
+  rhythmicContrast: 0.5269528629723936
+purpose: []
